@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ismotara Dipty
 #### I am a Frontend Web devloper
-![I am a Frontend Web devloper](https://i.ibb.co.com/BPDFLzg/Green-White-Orange-Modern-Geometric-Online-Training-Banner-1.png)
+![I am a Frontend Web devloper](https://github.com/IsmotaraDipty43/IsmotaraDipty43/blob/main/banner.png.png)
 
 I am a frontend web developer with a degree in Computer Science and Engineering from Daffodil International University. I specialize in building responsive and interactive web applications using React, JavaScript, HTML, Tailwind CSS, and CSS. I focus on creating user-friendly interfaces and delivering efficient, high-quality code.
 
