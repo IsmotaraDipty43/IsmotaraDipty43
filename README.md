@@ -4,9 +4,9 @@
 
 I am a frontend web developer with a degree in Computer Science and Engineering from Daffodil International University. I specialize in building responsive and interactive web applications using React, JavaScript, HTML, Tailwind CSS, and CSS. I focus on creating user-friendly interfaces and delivering efficient, high-quality code.
 
-Skills: Next JS / REACT / JS / HTML / CSS /Tailwind CSS
+Skills: REACT / JS / HTML / CSS /Tailwind CSS
 
-- 🌱 I’m currently learning React and Next JS 
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: ismotaradipty81gmail.com 
