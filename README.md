@@ -16,5 +16,5 @@ Skills: REACT / JS / HTML / CSS /Tailwind CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmotaraDipty43)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=IsmotaraDipty43)  
+
 
