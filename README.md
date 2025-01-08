@@ -18,7 +18,7 @@ I am a frontend web developer with a degree in Computer Science and Engineering 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg](https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss)](https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png)" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png" height="40" alt="tailwindcss logo"  />
 </div>
 
 ---
