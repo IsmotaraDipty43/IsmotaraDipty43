@@ -20,9 +20,8 @@ I am a frontend web developer with a degree in Computer Science and Engineering 
   <img width="12" />
   <img src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png" height="40" alt="tailwindcss logo"  />
    <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/117/744/png-clipart-node-js-javascript-express-js-software-developer-react-network-code-angle-text-thumbnail.png" height="40" alt="node js logo"  />
-   <img width="12" />
-  <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" height="40" alt="express js logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*-hi_YN6201aadrIe.png" height="40" alt="node js logo"  />
+
 </div>
 
 ---
