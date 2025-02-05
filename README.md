@@ -35,8 +35,7 @@ For any inquiries, you can contact me at ismotaradipty81@gmail.com.
 - 📫 How to reach me: ismotaradipty81gmail.com 
 
 ### 🔗 Connect With Me  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/IsmotaraDipty43)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/IsmotaraDipty43/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IsmotaraDipty43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/IsmotaraDipty43/)
 
 ---
 
