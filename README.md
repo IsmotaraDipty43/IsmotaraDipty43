@@ -41,9 +41,8 @@ For any inquiries, you can contact me at ismotaradipty81@gmail.com.
 
 ### 📊 GitHub Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsmotaraDipty43&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmotaraDipty43)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmotaraDipty43&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
