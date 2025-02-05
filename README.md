@@ -32,7 +32,7 @@ For any inquiries, you can contact me at ismotaradipty81@gmail.com.
 - 🌱 I’m currently exploring Next.js.
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: ismotaradipty81gmail.com 
+- 📫 How to reach me: email address:ismotaradipty81gmail.com or Phone Number: 01619606410
 
 ### 🔗 Connect With Me  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IsmotaraDipty43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/IsmotaraDipty43/)
